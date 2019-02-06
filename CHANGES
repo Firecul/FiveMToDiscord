@@ -1,5 +1,6 @@
-
+Version: 2.0.0
 - Removed The "Status" Check to once again fix the (OutDated) error
 - Cleaned Up Code.
 - Added Support For More Webhooks
 - Marked ALL Other Versions As OutDated
+- Added "FiveMToDiscord Bot By GrimDesigns" To Update Check Instead Of "systeminfo"
