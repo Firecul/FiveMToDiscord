@@ -1,6 +1,5 @@
 
-- Added multiple Server support
-- Added separated Command-Enter & Command-Answer channels
-- Added a Kick/Ban Log channel
-- Added a language file for the FXServer resource
-- Improved the 'chkcon' command
+- Removed The "Status" Check to once again fix the (OutDated) error
+- Cleaned Up Code.
+- Added Support For More Webhooks
+- Marked ALL Other Versions As OutDated
