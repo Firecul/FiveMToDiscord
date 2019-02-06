@@ -1,4 +1,3 @@
-Version: 1.0.3
 - Removed The "Status" Check to once again fix the (OutDated) error
 - Cleaned Up Code.
 - Added Support For More Webhooks
