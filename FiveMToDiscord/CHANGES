@@ -1,6 +1,3 @@
 
-- Added multiple Server support
-- Added separated Command-Enter & Command-Answer channels
-- Added a Kick/Ban Log channel
-- Added a language file for the FXServer resource
-- Improved the 'chkcon' command
+- Update some stuff and remove some stuff 
+- Add on screen version check notifications
