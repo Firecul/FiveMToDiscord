@@ -1,2 +1,6 @@
 - Update some stuff and remove some stuff 
 - Add on screen version check notifications
+- Remove on screen version check notifications (Buggy)
+- Remove the "maintenance mode" check (Un-Needed Feature)
+- Update line 152 and replace the deprecated "if not" function
+
