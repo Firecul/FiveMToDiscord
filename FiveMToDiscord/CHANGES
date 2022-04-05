@@ -1,6 +1,7 @@
-- Update some stuff and remove some stuff 
-- Add on screen version check notifications
-- Remove on screen version check notifications (Buggy)
-- Remove the "maintenance mode" check (Un-Needed Feature)
-- Update line 152 and replace the deprecated "if not" function
-
+- Fixed spelling and letter case mistakes, they matter in lua
+- Fixed system avatar for start up messages
+- Fixed indentation inconsistencies
+- Clean name from colour codes before proceding to event handler (helped to solve a few bugs)
+- Use name to set the webhook image rather than something that can't be controlled
+- Fix error in the console
+- Fix OwnWebhook code to actually work
